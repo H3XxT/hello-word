@@ -23,7 +23,7 @@
 
 - [Python](https://www.python.org/)
 - [Javascript](https://www.javascript.com/)
-- [HTML](https://www.w3schools.com/html/)
+
 
 ## Support
 
