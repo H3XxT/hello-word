@@ -23,7 +23,7 @@
 
 - [Python](https://www.python.org/)
 - [Javascript](https://www.javascript.com/)
-
+- [Go](https://go.dev/)
 
 ## Support
 
