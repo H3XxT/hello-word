@@ -6,25 +6,6 @@
   <br>
 </h1>
 
-<h4 align="center">I will print Hello Word in every lang i was learn</h4>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/supakornn">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
-</p>
-
-<p align="center">
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
-</p>
-
-## languages in this project
-
-- [Python](https://www.python.org/)
-- [Javascript](https://www.javascript.com/)
-- [Go](https://go.dev/)
-
 
 ## Contact
 <p>
