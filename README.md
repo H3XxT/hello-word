@@ -25,16 +25,12 @@
 - [Javascript](https://www.javascript.com/)
 - [Go](https://go.dev/)
 
-## Support
 
-<a href="https://www.buymeacoffee.com/supakornn" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-## License
-
-MIT
-
----
-
-> GitHub [@H3X-T](https://github.com/H3X-T) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/H3xtT) &nbsp;&middot;&nbsp;
-> Instagram [@supakornigm](https://instagram.com/supakornigm)
+## Contact
+<p>
+  <a href="https://www.linkedin.com/in/supakornieamgomol/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/supakornigm/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/spkngap/"><img alt="Instagram" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://twitter.com/H3XxT_"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/H3XxT"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
